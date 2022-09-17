@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/caotri/Documents/EducationPlatform/mldeveops-nanodegree/Project2/cd0581-building-a-reproducible-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_3/solution/mlruns/0/eae2ec93f98d4a1e9e1f332300573b2b/artifacts
+end_time: 1661000445369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: eae2ec93f98d4a1e9e1f332300573b2b
+run_uuid: eae2ec93f98d4a1e9e1f332300573b2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1661000444651
+status: 4
+tags: []
+user_id: caotri

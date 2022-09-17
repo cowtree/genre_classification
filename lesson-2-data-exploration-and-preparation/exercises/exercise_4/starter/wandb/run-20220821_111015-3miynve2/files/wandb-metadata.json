@@ -1,0 +1,31 @@
+{
+    "os": "macOS-12.4-arm64-arm-64bit",
+    "python": "3.10.5",
+    "heartbeatAt": "2022-08-21T09:10:16.223763",
+    "startedAt": "2022-08-21T09:10:15.829808",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "artifact",
+        "put",
+        "--name",
+        "exercise_4/genres_mod.parquet",
+        "--type",
+        "raw_data",
+        "--description",
+        "A modified version of the songs dataset",
+        "genres_mod.parquet"
+    ],
+    "state": "running",
+    "program": "/opt/miniconda3/envs/udacityML/bin/wandb",
+    "git": {
+        "remote": "https://github.com/udacity/cd0581-building-a-reproducible-model-workflow-exercises.git",
+        "commit": "f8ceef1ef5f8d5e8ac5995dbf09d0c6d8be15827"
+    },
+    "email": "huycaotrido@gmail.com",
+    "root": "/Users/caotri/Documents/EducationPlatform/mldeveops-nanodegree/Project2/cd0581-building-a-reproducible-model-workflow-exercises",
+    "host": "Huys-MBP",
+    "username": "root",
+    "executable": "/opt/miniconda3/envs/udacityML/bin/python3.10"
+}

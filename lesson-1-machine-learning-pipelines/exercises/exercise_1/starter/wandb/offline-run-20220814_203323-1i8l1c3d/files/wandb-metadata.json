@@ -1,0 +1,21 @@
+{
+    "os": "macOS-12.4-arm64-arm-64bit",
+    "python": "3.10.5",
+    "heartbeatAt": "2022-08-14T18:33:24.056838",
+    "startedAt": "2022-08-14T18:33:23.740003",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/udacity/cd0581-building-a-reproducible-model-workflow-exercises.git",
+        "commit": "f8ceef1ef5f8d5e8ac5995dbf09d0c6d8be15827"
+    },
+    "email": "huycaotrido@gmail.com",
+    "root": "/Users/caotri/Documents/EducationPlatform/mldeveops-nanodegree/Project2/cd0581-building-a-reproducible-model-workflow-exercises",
+    "host": "Huys-MBP",
+    "username": "caotri",
+    "executable": "/opt/miniconda3/envs/udacityML/bin/python"
+}
